@@ -1,0 +1,7 @@
+# ninja log v6
+1	325	1733017929004981219	CMakeFiles/Integration.dir/main.cpp.o.ddi	aca0c2732f96d612
+325	339	1733017929342422138	CMakeFiles/Integration.dir/CXX.dd	dea7f50a80867d5
+325	339	1733017929342422138	/Users/feenix/Desktop/CSCI211/Integration/cmake-build-debug/CMakeFiles/Integration.dir/CXXModules.json	dea7f50a80867d5
+325	339	1733017929342422138	CMakeFiles/Integration.dir/main.cpp.o.modmap	dea7f50a80867d5
+340	834	1733017929343087635	CMakeFiles/Integration.dir/main.cpp.o	af754039cfd98459
+836	975	1733017929839317504	Integration	92c5738847525c70

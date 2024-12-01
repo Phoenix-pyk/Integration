@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/Users/feenix/Desktop/CSCI211/Integration/cmake-build-debug",
+	"dir-cur-src" : "/Users/feenix/Desktop/CSCI211/Integration",
+	"dir-top-bld" : "/Users/feenix/Desktop/CSCI211/Integration/cmake-build-debug",
+	"dir-top-src" : "/Users/feenix/Desktop/CSCI211/Integration",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/Users/feenix/Desktop/CSCI211/Integration/cmake-build-debug/CMakeFiles/Integration.dir"
+}

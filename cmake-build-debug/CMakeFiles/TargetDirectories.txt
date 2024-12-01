@@ -1,0 +1,3 @@
+/Users/feenix/Desktop/CSCI211/Integration/cmake-build-debug/CMakeFiles/Integration.dir
+/Users/feenix/Desktop/CSCI211/Integration/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/feenix/Desktop/CSCI211/Integration/cmake-build-debug/CMakeFiles/rebuild_cache.dir
